@@ -1,0 +1,52 @@
+-> Origem da Orientação a Objetos 
+
+    POO = Programação  Orietada Objeto
+
+    - Objetivo 
+        Aproximar o mundo digital do mundo real 
+    
+    - Como era a programação antigamente ?
+        * Programação Baixo Nível
+        * Programação Linear 
+        * Programação Estruturada
+        * Programação Modular 
+        * POO 
+    - Quem criou ? 
+        Alan Kay 
+    
+    - Linguagens POO 
+        * C++ 
+        * Java 
+        * PHP 
+        * Python 
+        * Ruby 
+        * C# 
+        * ObjctiveC
+
+    - Vantagens 
+        * Confiável
+            O isolamento entre as partes gera software seguros. 
+            Ao alterar uma parte, nenhuma outra é afetada.
+        * Oportuno
+            Ao dividir tudo em partes, várias delas podem ser 
+            desenvolvido em parelelo.
+        * Manutenível
+            Atualizar um software é mais fácil. Uma pequena modificação 
+            vai beneficiar todas as partes que usarem o objeto.
+        * Extensível 
+            O software naõ é estático. Ele deve crescer para permanecer útil
+        * Reutilizável
+            Podemos usar objetos de um sistema que criamos em outros sistema.
+        * Natural 
+            Mais fácil de entender. Você se preocupa mais na funcionalidade do 
+            que nos detalhes de implementação.
+
+
+
+
+
+
+
+
+
+
