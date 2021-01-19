@@ -1,0 +1,61 @@
+-> O que é um objeto ?
+
+    - Objeto 
+        Coisa material ou abstrata que pode ser percebida pelos 
+        sentidos e descrita por meio das suas características, 
+        comportamentos e estado atual.
+    
+    Caneta 
+    Coisas que eu tenho 
+        Modelo 
+        Cor 
+        Ponta 
+        Carga 
+        Tampada 
+    Coisas que eu faço 
+        Escrever 
+        Rabiscar 
+        Pintar 
+        Tampar 
+        Destampar
+    Como eu estou nesse momento ?
+
+    Classe Caneta
+        modelo: Caractere 
+        cor:  Caractere 
+        carga: Real 
+        carga: Inteiro 
+        tampada: Logico 
+        Metodo rabiscar()
+            Se(tampada) entao 
+                Escreva("Erro)
+            senão
+                Escreva("Rabisco)
+            FimSe 
+        FimMetodo
+
+        Metodo tampar()
+            tampada = verdadeiro
+        FimMetodo
+
+    FimClasse
+
+    Atributos
+
+    Métodos
+    
+    Estado 
+
+    Classe 
+        Definição
+            Define os atributos e métodos comuns que serão 
+            compartilhados por um objeto. 
+    Objeto 
+        Definição 
+            É uma instância de uma classe. 
+    
+    Abstração
+    
+
+
+
