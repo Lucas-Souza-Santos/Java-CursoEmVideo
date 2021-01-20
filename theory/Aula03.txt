@@ -1,0 +1,24 @@
+-> Mudando a Visibilidade
+
+    - Linguagem de Modelagem Unificada UML 
+        +-----------------------+
+        |   Nome da Classe      |
+        +-----------------------+
+        |   Atributo            |
+        |   Atributo            |
+        |   Atributo            |
+        +-----------------------+
+        |   Metodo              |
+        |   Metodo              |
+        |   Metodo              |
+        +-----------------------+
+
+- Modificadores de acesso 
+    Indicam o nível de acesso aos componentes internos 
+    de uma classe.
+    + público 
+    - privado 
+    # protegido
+
+
+

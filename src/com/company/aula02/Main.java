@@ -7,8 +7,14 @@ public class Main {
         Caneta c1 = new Caneta();
         c1.cor = "Azul";
         c1.ponta = 0.5f;
-        c1.tampada = false;
+        c1.destampar();
+        c1.rabiscar();
 
         c1.status();
+
+        Caneta c2 = new Caneta();
+        c2.modelo = "bic";
+        c2.cor = "vermelha";
+        c2.status();
     }
 }

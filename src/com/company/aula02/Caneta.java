@@ -13,7 +13,11 @@ public class Caneta
         System.out.println("está tampada ? " + this.tampada);
     }
     void rabiscar(){
-        
+        if(this.tampada){
+            System.out.println("Erro! Não posso rabiscar.");
+        }else{
+            System.out.println("Rabiscando");
+        }
     }
     void tampar(){
         this.tampada = true;
