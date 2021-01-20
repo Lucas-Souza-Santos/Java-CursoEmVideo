@@ -2,23 +2,30 @@
 
     - Linguagem de Modelagem Unificada UML 
         +-----------------------+
-        |   Nome da Classe      |
+        |   Caneta              |
         +-----------------------+
-        |   Atributo            |
-        |   Atributo            |
-        |   Atributo            |
+        | + modelo              |
+        | + cor                 |
+        | - ponta               |
+        | # carga               |
+        | # tampada             |
         +-----------------------+
-        |   Metodo              |
-        |   Metodo              |
-        |   Metodo              |
+        | + escrever()          |
+        | + rabiscar()          |
+        | + pinta()             |
+        | - tampar()            |
+        | - destampar()         |
         +-----------------------+
 
 - Modificadores de acesso 
     Indicam o nível de acesso aos componentes internos 
     de uma classe.
     + público 
+        a classe atual e todas as outras classes.
     - privado 
+        somente a classe atual 
     # protegido
+        a classe atual e todas as suas sub-classes.
 
 
 
